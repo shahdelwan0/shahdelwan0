@@ -2,8 +2,7 @@
 
 <!-- Stats + Streak -->
 <div style="display: flex; justify-content: center; gap: 40px; flex-wrap: wrap;">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=shahdelwan0&show_icons=true&theme=tokyonight" />
-  <img src="https://streak-stats.demolab.com/?user=shahdelwan0&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com/?user=shahdelwan0&theme=dracula" />
 </div>
 
 <br><br>
@@ -13,7 +12,7 @@
 
   <!-- Top Languages -->
   <div>
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=shahdelwan0&layout=compact&theme=tokyonight" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=shahdelwan0&layout=compact&theme=dracula" />
   </div>
 
   <!-- Tech Stack Badges -->
