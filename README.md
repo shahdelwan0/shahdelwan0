@@ -2,7 +2,7 @@
 
 <!-- Stats + Streak -->
 <div style="display: flex; justify-content: center; gap: 40px; flex-wrap: wrap;">
-  <img src="https://streak-stats.demolab.com/?user=shahdelwan0 />
+  <img src="https://streak-stats.demolab.com/?user=shahdelwan0" />
 </div>
 
 <br><br>
