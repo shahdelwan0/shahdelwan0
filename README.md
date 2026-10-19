@@ -38,10 +38,10 @@
 ## Microsoft Learn Achievements
 
 <a href="https://learn.microsoft.com/api/achievements/share/en-us/ShahdElwan-9593/VS7LDFLM?sharingId=3425C721F295BBA3">
-  <img src="https://learn.microsoft.com/en-us/training/achievements/github/introduction-to-github.svg" alt="Introduction to GitHub achievement" width="200"/>
+  <img width="100" src="https://learn.microsoft.com/en-us/training/achievements/github/introduction-to-github.svg" alt="Introduction to GitHub achievement" />
 </a>
 <a href="https://learn.microsoft.com/api/achievements/share/en-us/ShahdElwan-9593/U762FNZ3?sharingId=3425C721F295BBA3">
-  <img src="https://learn.microsoft.com/en-us/training/achievements/student-evangelism/introduction-to-git-badge.svg" alt="Introduction to Git achievement" width="200"/>
+  <img  width="100" src="https://learn.microsoft.com/en-us/training/achievements/student-evangelism/introduction-to-git-badge.svg" alt="Introduction to Git achievement"/>
 </a>
 
 </div>
